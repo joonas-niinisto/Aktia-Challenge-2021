@@ -3,10 +3,10 @@
 Please complete the following data processing challenge by DD.MM.YYYY.
 
 ## Description
-Use the data provided in the file Aktia_challenge_dataset.xlsx, and through the use of visualizations and/or statistics answer the question:
-1. XXXX
-1. XXXX
-1. XXXX
+Use the data provided in the file Aktia_challenge_dataset.xlsx, and through the use of visualizations and/or statistics examine, for example:
+1. how the service payments of different branches / business areas have developed
+1. what kind of customers have paid the most service fees
+1. other factors that you think are significant
 
 ## Dataset
 ### Explanation
