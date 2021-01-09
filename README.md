@@ -39,11 +39,9 @@ Price 2017-2018 | List price 1.1.2017-31.12.2018
 Price 2019-2020 | List price 1.1.2019-31.12.2020
 
 ## Submission requirements
-Submit your work as a git repository (preferred way) or directly via email:
-
-Via git (github or bitbucket):
-
-Submit your answer as a version controlled (git) repository (repo) in github or bitbucket. Make sure your repo is public and submit a link to it via email.
+Submit your work:
+* As a git repository (Preferred way). Make sure your repo is public and submit a link to it via email.
+* Or directly via email.
 
 ## Suggested tools / approaches
 
