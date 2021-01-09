@@ -10,17 +10,10 @@ Use the data provided in the file customer_data_sample.csv and, through the use 
 Converted customer is represented in the data in the field "converted", and the nature of what this conversion means is (intentionally) unknown in the context of the challenge.
 
 ## Fields
-field	explanation
-customer_id	Numeric id for a customer
-converted	Whether a customer converted to the product (1) or not (0)
-customer_segment	Numeric id of a customer segment the customer belongs to
-gender	Customer gender
-age	Customer age
-related_customers	Numeric - number of people who are related to the customer
-family_size	Numeric - size of family members
-initial_fee_level	Initial services fee level the customer is enrolled to
-credit_account_id	Identifier (hash) for the customer credit account. If customer has none, they are shown as "9b2d5b4678781e53038e91ea5324530a03f27dc1d0e5f6c9bc9d493a23be9de0"
-branch	Which branch the customer mainly is associated with
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ## Submission requirements
 Submit your work as a git repository (preferred way) or directly via email:
