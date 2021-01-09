@@ -10,31 +10,31 @@ Use the data provided in the file Aktia_challenge_dataset.xlsx and, through the 
 ### Customers
 Column | Explanation
 ------------ | -------------
-CustomerID | Content in the second column
-Age | Content from cell 2
-Birth month | Content in the second column
-AUM | Content from cell 2
-Segment | Content in the second column
-Business area | Content from cell 2
-Office | Content from cell 2
+CustomerID | Customer's unique ID
+Age | Customer's age in years
+Birth month | Customer's birth month
+AUM | Assets under management in €
+Segment | Customer segment
+Business area | Customer's business area
+Office | Customer's office
 
 ### Events
 Column | Explanation
 ------------ | -------------
-Date | Content from cell 2
-EventID | Content in the second column
-ProductID | Content from cell 2
-CustomerID | Content in the second column
-Payment | Content from cell 2
-Discount (%) | Content in the second column
-Payment (€) | Content from cell 2
+Date | The date of the service payment transaction
+EventID |The unique ID of the service payment
+ProductID | Product's unique ID
+CustomerID | Customer's unique ID
+Payment | Is the payment successful. If false, the bank has not received that payment
+Discount (%) | Discount received by the customer from the list price
+Payment (€) | The price paid by the customer
 
 ### Products
 Column | Explanation
 ------------ | -------------
-ProductID | Content from cell 2
-Category | Content in the second column
-Sub-Category | Content from cell 2
+ProductID | Product's unique ID
+Category | Product category
+Product | Product name
 Price 2017-2018 | List price 1.1.2017-31.12.2018
 Price 2019-2020 | List price 1.1.2019-31.12.2020
 
