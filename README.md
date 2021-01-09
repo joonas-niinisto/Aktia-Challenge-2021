@@ -3,7 +3,8 @@
 Please complete the following data processing challenge by DD.MM.YYYY.
 
 ## Description
-Your task is to use the data provided in the file Aktia_challenge_dataset.xlsx, and through the use of visualizations and/or statistics try to find observations about branches, customers or products that you find relevant to the business. For example, you can examine how the service payments of different branches/ business areas have developed.
+Your task is to use the data provided in the file Aktia_challenge_dataset.xlsx, and through the use of visualizations and/or statistics try to find observations about branches, customers or products that you find relevant to the business.  
+For example, you can examine how the service payments of different branches/ business areas have developed.
 
 ## Dataset
 ### Explanation
