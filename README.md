@@ -4,6 +4,9 @@ Please complete the following data processing challenge by DD.MM.YYYY.
 
 ## Description
 Use the data provided in the file Aktia_challenge_dataset.xlsx and, through the use of visualizations and/or statistics answer the question:
+1. XXXX
+1. XXXX
+1. XXXX
 
 ## Data
 
