@@ -46,7 +46,7 @@ Price 2019-2020 | List price 1.1.2019-31.12.2020
 ### Suggested tools / approaches
 
 * Use summary statistics, visualization or other analytical means to explain your argumentation - it's important that you coherently explain, why you deem certain factors important and why some might be considered more important than others
-* You can for example use ipython (jupyter) notebooks, BI visualization tools (Tableau, Power BI, Excel) or such
+* You can for example use BI visualization tools (Tableau, Power BI, Excel) or ipython (jupyter) notebooks
 * Remember to include your full answer and used visualizations (code and pdfs) in your submission  
 
 **Have fun!**
