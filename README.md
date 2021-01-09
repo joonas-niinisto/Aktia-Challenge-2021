@@ -8,9 +8,12 @@ Use the data provided in the file Aktia_challenge_dataset.xlsx, and through the 
 1. XXXX
 1. XXXX
 
-## Data
+## Dataset
+### Explanation
+dasdasodjkasoddadadsaasdsd
 
-### Customers
+### Tables (sheets)
+#### Customers
 Column | Explanation
 ------------ | -------------
 CustomerID | Customer's unique ID
@@ -21,7 +24,7 @@ Segment | Customer segment
 Business area | Customer's business area
 Office | Customer's office
 
-### Events
+#### Events
 Column | Explanation
 ------------ | -------------
 Date | The date of the service payment transaction
@@ -32,7 +35,7 @@ Payment | Is the payment successful. If false, the bank has not received that pa
 Discount (%) | Discount received by the customer from the list price
 Payment (€) | The price paid by the customer
 
-### Products
+#### Products
 Column | Explanation
 ------------ | -------------
 ProductID | Product's unique ID
