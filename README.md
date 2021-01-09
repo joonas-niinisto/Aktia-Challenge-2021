@@ -1,9 +1,9 @@
 # Aktia-Challenge-2021
 
-Please complete the following data processing challenge by Sunday, 26th January 2020 (latest at 23:59 GMT+2).
+Please complete the following data processing challenge by DD.MM.YYYY.
 
 ## Description
-Use the data provided in the file customer_data_sample.csv and, through the use of visualizations and/or statistics answer the question:
+Use the data provided in the file Aktia_challenge_dataset.xlsx and, through the use of visualizations and/or statistics answer the question:
 
 ## Data
 
