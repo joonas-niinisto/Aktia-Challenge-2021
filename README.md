@@ -3,10 +3,7 @@
 Please complete the following data processing challenge by DD.MM.YYYY.
 
 ## Description
-Use the data provided in the file Aktia_challenge_dataset.xlsx, and through the use of visualizations and/or statistics examine, for example:
-1. how the service payments of different branches / business areas have developed
-1. what kind of customers have paid the most service fees
-1. other factors that you think are significant
+Your task is to use the data provided in the file Aktia_challenge_dataset.xlsx, and through the use of visualizations and/or statistics try to find observations about branches, customers or products that you find relevant to the business. For example, you can examine how the service payments of different branches/ business areas have developed.
 
 ## Dataset
 ### Explanation
@@ -22,7 +19,7 @@ Birth month | Customer's birth month
 AUM | Assets under management in €
 Segment | Customer segment
 Business area | Customer's business area
-Office | Customer's office
+Branch | Customer's office
 
 #### Events
 Column | Explanation
