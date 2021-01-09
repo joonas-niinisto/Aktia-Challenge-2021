@@ -41,7 +41,7 @@ Price 2019-2020 | List price 1.1.2019-31.12.2020
 ## Submission requirements
 ### Submit your work:
 * As a git repository (Preferred way). Make sure your repo is public and submit a link to it via email.
-* Or directly via email.
+* Or all files directly via email.
 
 ### Suggested tools / approaches
 
