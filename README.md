@@ -10,6 +10,20 @@ Use the data provided in the file customer_data_sample.csv and, through the use 
 Converted customer is represented in the data in the field "converted", and the nature of what this conversion means is (intentionally) unknown in the context of the challenge.
 
 ## Fields
+
+### Customers
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+### Customers
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+
+### Products
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
