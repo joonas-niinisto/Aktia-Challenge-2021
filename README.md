@@ -50,4 +50,4 @@ Submit your answer as a version controlled (git) repository (repo) in github or 
 * Use summary statistics, visualization or other analytical means to explain your argumentation - it's important that you coherently explain, why you deem certain factors important and why some might be considered more important than others
 * You can for example use ipython (jupyter) notebooks, BI visualization tools (Tableau, Power BI, Excel) or such
 * Remember to include your full answer and used visualizations (code and pdfs) in your submission
-* Have fun!
+Have fun!
