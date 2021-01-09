@@ -1,13 +1,9 @@
 # Aktia-Challenge-2021
 
-Customer segmentation challenge for Analysts
 Please complete the following data processing challenge by Sunday, 26th January 2020 (latest at 23:59 GMT+2).
 
 ## Description
 Use the data provided in the file customer_data_sample.csv and, through the use of visualizations and/or statistics answer the question:
-
-"What are the most important factors for predicting, whether a customer has converted or not?"
-Converted customer is represented in the data in the field "converted", and the nature of what this conversion means is (intentionally) unknown in the context of the challenge.
 
 ## Fields
 
