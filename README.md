@@ -51,7 +51,7 @@ Price 2019-2020 | List price 1.1.2019-31.12.2020
 
 ### Suggested tools / approaches
 
-* Use summary statistics, visualization or other analytical means to present the main insights of the data clearly and comprehensibly. Your answer could be, for example, a Dashboard, where the most important things / indicators to monitor are displayed.
+* Use summary statistics, visualization or other analytical means to present the main insights of the data clearly and comprehensibly. For example, your answer could be a Dashboard, where the most important things / indicators to monitor are displayed. In addition to this, it is also good that you have written down your findings from the material.
 * You can for example use BI visualization tools (Tableau, Power BI, Excel) or ipython (jupyter) notebooks
 * Remember to include your full answer (BI tool files, code, pdfs, etc.) in your submission  
 
