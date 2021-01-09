@@ -51,8 +51,8 @@ Price 2019-2020 | List price 1.1.2019-31.12.2020
 
 ### Suggested tools / approaches
 
-* Use summary statistics, visualization or other analytical means to explain your argumentation - it's important that you coherently explain, why you deem certain factors important and why some might be considered more important than others
+* Use summary statistics, visualization or other analytical means to present the main insights of the data clearly and comprehensibly. Your answer could be, for example, a Dashboard, where the most important things / indicators to monitor are displayed.
 * You can for example use BI visualization tools (Tableau, Power BI, Excel) or ipython (jupyter) notebooks
-* Remember to include your full answer and used visualizations (code and pdfs) in your submission  
+* Remember to include your full answer (BI tool files, code, pdfs, etc.) in your submission  
 
 **Have fun!**
