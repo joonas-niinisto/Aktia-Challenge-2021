@@ -32,7 +32,7 @@ Date | The date of the service payment
 EventID |The unique ID of the service payment
 ProductID | Product's unique ID
 CustomerID | Customer's unique ID
-Payment | Is the payment successful. If false, the bank has not received that payment
+Payment | Is the payment successful. If false, the bank has not received payment
 Discount (%) | Discount received by the customer from the list price
 Payment (€) | The price paid by the customer
 
