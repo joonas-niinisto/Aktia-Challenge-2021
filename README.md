@@ -9,7 +9,7 @@ For example, you can examine how the service payments of different business area
 
 ## Dataset
 ### Explanation
-The dataset includes imaginary bank service payment income for 2017-2020. The dataset (excel file) used in the challenge consists of three different sheets. These sheets describe three different database tables from which you are supposed to build an overall picture of how service fees have evolved over the review period. Download the daset by clicking the file **Aktia_challenge_data.xlsx** and then in the window that opens, press download.
+The dataset includes imaginary bank service payment income for 2017-2020. The dataset (excel file) used in the challenge consists of three different sheets. These sheets describe three different database tables from which you are supposed to build an overall picture of how service fees have evolved over the review period.
 
 In the beginning, you should combine these tables so that you can, for example, study how different business areas have developed. You can do this the way you want, for example, directly in Excel or using BI tools. As a bonus, you can add an SQL query to your final answer, which would have given you the entire usable dataset directly from the database.
 
