@@ -1,6 +1,6 @@
 # Aktia-Challenge-2021
 
-Please complete the following data processing challenge by DD.MM.YYYY.
+Please complete the following data processing challenge by 7.2.2021 23:59.
 
 ## Description
 Your task is to use the data provided in the file Aktia_challenge_data.xlsx, and through the use of visualizations and/or statistics try to find observations about branches, customers or products that you find relevant to the business.  
